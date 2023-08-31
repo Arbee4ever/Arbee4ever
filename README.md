@@ -3,5 +3,5 @@
 </a>
 <br>
 <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbee4ever&layout=compact&bg_color=45,2b8eaf,b222a8&text_color=ffffff&title_color=ffffff&border_color=000000"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbee4ever&layout=compact&bg_color=45,2b8eaf,b222a8&text_color=ffffff&title_color=ffffff&border_color=000000&size_weight=0&count_weight=1"/>
 </a>
